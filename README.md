@@ -6,3 +6,5 @@ NLP Review Diagnostic System.
  Designed an anomaly detector using word embedding, auto-encoders and other NLP techniques to
 detect anomalous sentiments, filters foreign language, extract opinions, finally produced results.
 Used Tensor Flow, Neural Networks, Hyper parameter, Tensor Board for high effeciency, accuarate results and rich Visulization.
+
+Only half of the files were given, request for full project.
